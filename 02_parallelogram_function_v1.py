@@ -59,8 +59,10 @@ def parallelogram_perimeter():
 
         else:
             print("incorrect answer. the correct answer is ", parallelogram_perimeter_int)
+
             answer_parallelogram_perimeter == "incorrect"
             answer_perimeter_parallelogram == answer_perimeter_parallelogram + 1
+
             print("thank you for playing")
             end()
 
