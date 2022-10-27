@@ -62,5 +62,5 @@ def rectangle_perimeter():
 
 
 
-print("welcome to my rectangle area and perimeter calculator")
+print("rectangle area and perimeter calculator")
 rectangle_area()
