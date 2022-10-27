@@ -1,8 +1,7 @@
 '''
 Gaby Furness 9/22
-calculate area and perimeter for square and rectangle function
 square rectangle component
-v1 -
+v1 - calculate area and perimeter for square and rectangle function
 '''
 
 def program_start():
